@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">What animal are you?</string>
+    <string name="hint">Type you name</string>
+    <string name="swim_question">Do you like to swim?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="food_question">Are you choosy about what you eat?</string>
+    <string name="instructions_question">Do you follow the orders?</string>
+    <string name="climbing_question">Do you like climbing?</string>
+    <string name="drink_question">What do you like do drink?</string>
+    <string name="drink_whisky">Whisky</string>
+    <string name="drink_milk">Milk</string>
+    <string name="drink_water">Water</string>
+    <string name="summary">What animal are you?</string>
+    <string name="check">CHECK</string>
+</resources>
